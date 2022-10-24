@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rebekahgrandey
-- 👀 I’m interested in language, cooking, illustration and roller skating
+- 👀 I’m interested in linguistics, cooking, illustration and roller skating
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on a new app
 - 📫 How to reach me -> rebekahtdesigns@gmail.com
