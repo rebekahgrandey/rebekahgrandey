@@ -1,3 +1,6 @@
+![Rebekah Grandey](https://user-images.githubusercontent.com/110506731/212781149-a1d6c8d4-0623-4eed-984e-573f20c2060e.jpg)
+
+
 - 👋 Hi, I’m @rebekahgrandey
 - 🌱 I’m currently learning C# and SQL
 - 💞️ I’m looking to collaborate on a new app
