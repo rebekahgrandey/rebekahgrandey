@@ -2,9 +2,12 @@
 
 
 - 👋 Hi, I’m @rebekahgrandey
-- 🌱 I’m currently attending Nashville Software School.
-- 💞️ I’m looking to collaborate on a new app!
+- 🌱 I’m a recent graduate of Nashville Software School's 6-month full-stack web development course (August '22- February '23).
+- 💞️ I’m looking to be hired for an entry full-stack or front-end role in the Middle Tennessee/Nashville area or remotely!
 - 📫 How to reach me -> rebekahtdesigns@gmail.com
+- 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
+
+- Fun Fact: I used to live & work in Japan and speak conversational Japanese! ✨
 
 <!---
 rebekahgrandey/rebekahgrandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
