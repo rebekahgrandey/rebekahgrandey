@@ -7,7 +7,7 @@
 - 📫 How to reach me -> rebekahtdesigns@gmail.com
 - 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
 
-- Fun Fact: I used to live & work in Japan and speak conversational Japanese! ✨ <a href="https://www.jlpt.jp/e/about/levelsummary.html">(JLPT N4 Certified)</a>
+- 😮 Fun Fact: I used to live & work in Japan and speak conversational Japanese! ✨ <a href="https://www.jlpt.jp/e/about/levelsummary.html">(JLPT N4 Certified)</a>
 
 ### Skills
 
