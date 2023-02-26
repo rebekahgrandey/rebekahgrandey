@@ -32,7 +32,7 @@
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rebekahgrandey&show_icons=true&theme=gotham" alt="rebekahgrandey" />
+<img src="https://github-readme-stats.vercel.app/api?username=rebekahgrandey&show_icons=true&theme=jolly" alt="rebekahgrandey" />
 
 
   
