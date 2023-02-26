@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @rebekahgrandey
 - 🌱 Recent graduate of Nashville Software School's 6-month full-stack web development course (August '22- February '23).
-- 💞️ Open To Work: Entry-level full-stack or front-end role in the Middle Tennessee/Nashville area or remotely.
+- 💞️ Open To Work: Entry-level full-stack or front end role in the Middle Tennessee/Nashville area or remotely.
 - 📫 How to reach me -> rebekahtdesigns@gmail.com
 - 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
 
