@@ -1,8 +1,8 @@
 ![Rebekah Grandey](https://user-images.githubusercontent.com/110506731/212781149-a1d6c8d4-0623-4eed-984e-573f20c2060e.jpg)
 
 
-- 👋 Hi, I’m @rebekahgrandey
-- 🌱 Recent graduate of Nashville Software School's 6-month full-stack web development course (August '22- February '23).
+## 👋 Hi, I’m @rebekahgrandey
+- 🌱 Recent graduate of **Nashville Software School's _6-month full-stack web development course_** (August '22- February '23).
 - 💞️ Open To Work: Entry-level full-stack or front end role in the Middle Tennessee/Nashville area or remotely.
 - 📫 How to reach me -> rebekahtdesigns@gmail.com
 - 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
@@ -23,8 +23,7 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
-### Stats
+--
 
 <img src="https://github-readme-stats.vercel.app/api?username=rebekahgrandey&show_icons=true&theme=jolly" alt="rebekahgrandey" />
 
