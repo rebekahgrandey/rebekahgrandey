@@ -27,12 +27,10 @@
 --
 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=for-the-badge)
+
 <img src="https://github-readme-stats.vercel.app/api?username=rebekahgrandey&show_icons=true&theme=jolly" alt="rebekahgrandey" />
-
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
  
-
 <!---
 rebekahgrandey/rebekahgrandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
