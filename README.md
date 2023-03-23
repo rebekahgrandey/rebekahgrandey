@@ -2,7 +2,7 @@
 
 
 ## 👋 Hi, I’m @rebekahgrandey
-- 🌱 Currently taking the **Advanced SQL course** at Nashville Software School.
+- 🌱 Currently taking the **_Advanced SQL course_** at **Nashville Software School**.
 - 🏅 Recent graduate of **Nashville Software School's _6-month full-stack web development course_** (August '22- February '23).
 - 💞️ Open To Work: Entry-level full-stack, front end, or UI/UX role in the Middle Tennessee/Nashville area or remotely.
 - 📫 How to reach me -> rebekahtdesigns@gmail.com
