@@ -28,8 +28,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rebekahgrandey&show_icons=true&theme=jolly" alt="rebekahgrandey" />
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=for-the-badge)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rebekahgrandey&label=Profile%20views&color=0e75b6&style=flat" alt="me" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rebekahgrandey&label=Profile%20views&color=ac3de3&style=flat" alt="me" /> </p>
  
 <!---
 rebekahgrandey/rebekahgrandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
