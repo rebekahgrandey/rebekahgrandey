@@ -5,7 +5,7 @@
 - 🌱 Currently taking the **_Advanced SQL course_** at **Nashville Software School**.
 - 🏅 Recent graduate of **Nashville Software School's _6-month full-stack web development course_** (August '22- February '23).
 - 💞 Open To Work: Entry-level full-stack, front end, or UI/UX role in the Middle Tennessee/Nashville area or remotely.
-- 📫 How to reach me -> rebekahtdesigns@gmail.com
+- 📫 How to reach me -> rebekahtdesigns@gmail.com 
 - 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
 
 - 😮 Fun Fact: I used to live & work in Nagasaki, Japan and I speak conversational Japanese! ✨ <a href="https://www.jlpt.jp/e/about/levelsummary.html">(JLPT N4 Certified)</a>
