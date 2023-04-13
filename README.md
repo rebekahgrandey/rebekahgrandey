@@ -1,7 +1,7 @@
 ![Rebekah Grandey](https://user-images.githubusercontent.com/110506731/212781149-a1d6c8d4-0623-4eed-984e-573f20c2060e.jpg)
 
 
-## 👋 Hi, I’m @rebekahgrandey
+## 👋 Hi, I’m Rebekah.
 - 🌱 Currently taking the **_Advanced SQL course_** at **Nashville Software School**.
 - 🏅 Recent graduate of **Nashville Software School's _6-month full-stack web development course_** (August '22- February '23).
 - 💞 Open To Work: Entry-level full-stack, front end, or UI/UX role in the Middle Tennessee/Nashville area or remotely.
