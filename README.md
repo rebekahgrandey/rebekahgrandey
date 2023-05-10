@@ -5,7 +5,6 @@
 - 🌱 Learning PHP & reviewing React.
 - ✅ Recently completed the Advanced SQL course at Nashville Software School.
 - 🏅 Recent graduate of **Nashville Software School's _6-month full-stack web development course_** (August '22- February '23).
-- 💞 Open To Work: Entry-level full-stack, front end, or UI/UX role in the Middle Tennessee/Nashville area or remote.
 - 📫 How to reach me -> rebekahtdesigns@gmail.com 
 - 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
 
