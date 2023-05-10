@@ -3,7 +3,6 @@
 
 ## 👋 Hi, I’m Rebekah.
 - 🌱 Learning PHP & reviewing React.
-- ✅ Recently completed the Advanced SQL course at Nashville Software School.
 - 🏅 Recent graduate of **Nashville Software School's _6-month full-stack web development course_** (August '22- February '23).
 - 📫 How to reach me -> rebekahtdesigns@gmail.com 
 - 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
