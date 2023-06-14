@@ -2,7 +2,7 @@
 
 
 ## 👋 Hi, I’m Rebekah.
-- 🌱 Currently working as a PHP/WordPress developer.
+- 🌱 Currently learning Vue.
 - 🏅 Recent graduate of **Nashville Software School's _6-month full-stack web development course_** (August '22- February '23).
 - 📫 How to reach me -> rebekahtdesigns@gmail.com 
 - 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
