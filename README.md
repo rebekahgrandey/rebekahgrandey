@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I’m Rebekah.
 - 🌱 Currently learning Vue.
-- 🏅 Recent graduate of **Nashville Software School's _6-month full-stack web development course_** (August '22- February '23).
+- 🏅 Graduate of Nashville Software School's 6-month full-stack web development course.
 - 📫 How to reach me -> rebekahtdesigns@gmail.com 
 - 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
 
