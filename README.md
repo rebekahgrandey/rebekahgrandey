@@ -4,7 +4,9 @@
 ## 👋 Hi, I’m Rebekah.
 - 🏅 Graduate of Nashville Software School's 6-month full-stack web development course.
 - 📫 How to reach me -> rebekahtdesigns@gmail.com 
-- 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928/
+- 🔗 LinkedIn Profile -> https://www.linkedin.com/in/rtaylor928
+- 🎨 Former graphic designer - proficient in Photoshop, Illustrator, InDesign, and Figma.
+- 🛼 Roller Skater
 
 - 😮 Fun Fact: I used to live & work in Nagasaki, Japan and I speak conversational Japanese! ✨ <a href="https://www.jlpt.jp/e/about/levelsummary.html">(JLPT N4 Certified)</a>
 
